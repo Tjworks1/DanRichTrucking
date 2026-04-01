@@ -10,7 +10,7 @@ export default function Home() {
 
         {/* BRAND */}
         <h1 className="text-6xl md:text-8xl font-extrabold tracking-tight">
-          <span className="block">DANRICH</span>
+          <span className="block">DANDRICH</span>
           <span className="text-yellow-400 block">TRUCKING</span>
         </h1>
 
