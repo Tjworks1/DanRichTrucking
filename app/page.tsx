@@ -40,7 +40,9 @@ export default function Home() {
           </a>
         </div>
 
-        
+        <p className="text-red-400 text-sm mt-6">
+          Limited availability today 🚚
+        </p>
       </section>
 
       <div className="h-px bg-gradient-to-r from-transparent via-gray-800 to-transparent"></div>
